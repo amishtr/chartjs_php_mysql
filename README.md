@@ -13,7 +13,7 @@ To show you how dynamically it works, I have used PHP and MySQL database.
 * Copy the downloaded folder to C:\MAMP\htdocs directory.
 * Open MAMP and start the servers. 
 * Open your broweser (e.g. Google Chrome).
-* Copy the URL (e.g. http://localhost:82/chartjs_php_mysql-master/index.php) and paste it on your address bar to access the application.
+* Copy the URL (e.g. http://localhost:82/chartjs_php_mysql-master/index.php) and paste it on your address bar to access the dashboard.
 
   **Note:** Depending on your system's ports availablity, you might have a different localhost.
 
