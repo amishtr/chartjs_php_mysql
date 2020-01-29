@@ -1,9 +1,10 @@
-# PHP Diary Web Application
+# Chart.js PHP MySQL Dashboard
 
-Created by: Amish Trivedi | Last Updated Date: 27-Jan-2020
+Created by: Amish Trivedi | Last Updated Date: 29-Jan-2020
 
 ## Overview:
-The aim of the application is to keep your thoughts organised, set and achieve your goals and allow yourself to self-reflect and boost your memory.
+[Chart. js](https://www.chartjs.org/) is a JavaScript library that allows you to draw different types of charts by using the HTML5 canvas element.
+To show you how dynamically it works, I have used PHP and MySQL database.
 
 ## Installation
 
@@ -12,7 +13,7 @@ The aim of the application is to keep your thoughts organised, set and achieve y
 * Copy the downloaded folder to C:\MAMP\htdocs directory.
 * Open MAMP and start the servers. 
 * Open your broweser (e.g. Google Chrome).
-* Copy the URL (e.g. http://localhost:82/Secret_Diary/login.php) and paste it on your address bar to access the application.
+* Copy the URL (e.g. http://localhost:82/ChartJs_Bar_Graph/index.php) and paste it on your address bar to access the application.
 
   **Note:** Depending on your system's ports availablity, you might have a different localhost.
 
